@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 # 💫 About Me:
 I'm Youssef Larbi, and I'm studying data science at Xiamen University Malaysia.<br>I'm very passionate about analytics, mathematics, and real-world inferencing via statistical means.<br>I really enjoy the way AI research incorporates math in the development of human-like models.<br>My preferred domains of work are basketball and linguistics.<br>I'm actively working on projects that incorporate those 2 domains, as they've shaped my life masively.<br>I'm more than ready to collaborate on any project.<br><br>Upwork: https://www.upwork.com/freelancers/~016a3ac17076444e7b
@@ -28,4 +26,3 @@ I'm Youssef Larbi, and I'm studying data science at Xiamen University Malaysia.<
 [![](https://komarev.com/ghpvc/?username=AlphaNerdFx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
