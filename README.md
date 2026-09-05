@@ -10,7 +10,7 @@ I'm Youssef Larbi, and I'm studying data science at Xiamen University Malaysia.<
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AlphaNerdFx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AlphaNerdFx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AlphaNerdFx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AlphaNerdFx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlphaNerdFx&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
