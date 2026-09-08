@@ -13,9 +13,8 @@ I'm Youssef Larbi, and I'm studying data science at Xiamen University Malaysia.<
 ![](https://streak-stats.demolab.com/?user=AlphaNerdFx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AlphaNerdFx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ The 90/90 rule
+### ✍️ The 90/90 rule by Tom Cargill
 ```
 The first 90 percent of the code accounts for the first 90 percent of the development time.
 The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 ```
-by Tom Cargill
