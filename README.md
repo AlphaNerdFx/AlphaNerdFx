@@ -15,6 +15,7 @@ I'm Youssef Larbi, and I'm studying data science at Xiamen University Malaysia.<
 
 ### ✍️ The 90/90 rule
 ```
-The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+The first 90 percent of the code accounts for the first 90 percent of the development time.
+The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 ```
 by Tom Cargill
